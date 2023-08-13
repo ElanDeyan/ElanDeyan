@@ -1,3 +1,1 @@
-# Hello, my name is Elan
-
-I like code :-)
+# Hello, my name is Elan Deyan
